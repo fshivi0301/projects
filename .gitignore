@@ -1,2 +1,11 @@
-just_Exist/
-just_Exist/
+# PyCharm
+.idea/
+
+# Conda environment files
+environment.yml
+environment_linuxx.yml
+self explain/pycharm_env.yml
+
+# Jupyter notebook you don't want to track
+self explain/fashion mnist.ipynb
+
