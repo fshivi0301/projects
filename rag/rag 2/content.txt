@@ -1,0 +1,48 @@
+Title: The Aurelian Drift Hypothesis
+Status: Synthetic / Non-Public Research Note
+Author: L. Carver Institute for Applied Cognition
+Year: 2026
+
+Abstract
+
+The Aurelian Drift Hypothesis proposes that prolonged exposure to low-frequency ambient sound (between 17–23 Hz) causes a measurable shift in human decision latency without affecting decision accuracy. This phenomenon was observed during controlled task environments and appears to influence cognitive pacing rather than reasoning quality.
+
+Background
+
+Previous studies on ambient noise have focused on distraction and stress. The Aurelian Drift differs in that participants report no conscious awareness of impairment. Instead, response timing gradually shifts after approximately 42 minutes of exposure.
+
+Key Observations
+
+Decision time increased by 11–18% after sustained exposure
+
+Accuracy variance remained within ±1.2% of baseline
+
+Effects persisted for up to 27 minutes after sound removal
+
+Participants self-reported “calm” or “neutral” mental states
+
+Proposed Mechanism
+
+The hypothesis suggests that low-frequency resonance subtly entrains neural oscillations associated with executive timing, particularly within the prefrontal cortex. This entrainment does not suppress cognition but alters temporal calibration.
+
+Potential Applications
+
+Open-office acoustic design
+
+Safety-critical environments (air traffic control, surgery prep)
+
+Behavioral economics experiments
+
+Adaptive UX systems that respond to cognitive pacing
+
+Limitations
+
+Small sample size (n = 34)
+
+Controlled environment only
+
+No long-term exposure data
+
+Disclaimer
+
+This document describes synthetic, fictional research created for testing information retrieval, grounding, and hallucination resistance in language-model systems.
